@@ -6,4 +6,3 @@ shi,
 aaa,
 来自 master
 来自 two
-这行提交后准备revert
